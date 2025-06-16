@@ -1,7 +1,7 @@
 
 # Mentores Invisíveis: Lições Psicológicas dos Animes
 
-Este repositório apresenta um projeto autoral intitulado **Mentores Invisíveis**, um eBook que reúne frases impactantes de personagens de anime organizadas em torno de temas psicológicos e emocionais como coragem, perseverança, autoconhecimento, sabedoria e conexões humanas.
+Este repositório apresenta um projeto criado por IA intitulado **Mentores Invisíveis**, um eBook que reúne frases impactantes de personagens de anime organizadas em torno de temas psicológicos e emocionais como coragem, perseverança, autoconhecimento, sabedoria e conexões humanas.
 
 ## 🎯 Objetivo
 
