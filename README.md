@@ -55,4 +55,4 @@ Este repositório contém:
 
 ---
 
-Feito com 💡 por **Yuri Souza**, fã de anime, psicologia e narrativas transformadoras.
+Feito com 💡 por **Yuri Souza**, fã de anime e narrativas transformadoras.
