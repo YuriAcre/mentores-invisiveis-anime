@@ -19,13 +19,12 @@ Cada capítulo é introduzido por um texto sugestivo e ilustrado por frases de p
 
 ## 🛠️ Prompts Utilizados na Criação
 
-Foram usados prompts de IA para:
+Foram usados prompts:
 
-- Criar o título do projeto e os capítulos temáticos
-- Gerar frases de anime por tema
-- Criar textos introdutórios para cada capítulo
-- Sugerir paletas de cor, estilo visual e imagens estilo mangá
-- Organizar a estrutura do eBook
+- "Criar o título do projeto e os capítulos temáticos"
+- "Gerar frases de anime por tema"
+- "Criar textos introdutórios para cada capítulo"
+- "Sugerir paletas de cor, estilo visual e imagens estilo mangá"
 
 ## 🔗 Fontes de Referência
 
