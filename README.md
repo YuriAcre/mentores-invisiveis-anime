@@ -15,8 +15,6 @@ Demonstrar como personagens de anime funcionam como verdadeiros **mentores simb�
 
 ## 📘 Sobre o eBook
 
-O eBook está disponível em formato PDF e pode ser baixado [clicando aqui](mentores invisíveis.pdf).
-
 Cada capítulo é introduzido por um texto sugestivo e ilustrado por frases de personagens como Kenshin Himura, Naruto, Shikamaru, Gojou Satoru, Edward Elric, entre outros — mostrando que por trás de cada batalha, há também uma lição de vida.
 
 ## 🛠️ Prompts Utilizados na Criação
